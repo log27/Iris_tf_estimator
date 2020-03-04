@@ -1,2 +1,3 @@
 # Iris_tf_estimator
-Tensorflow Estimator Model for Iris Database
+
+Built a classfication model using tensoflow estimator for Iris database with an accuracy of about 97%
